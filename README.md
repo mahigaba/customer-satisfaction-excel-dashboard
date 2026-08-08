@@ -29,7 +29,7 @@ The main objective is to analyze customer satisfaction and understand patterns a
 
 ## 📊 Dashboard Preview
 
-![Customer Satisfaction Dashboard](Dashboard/dashboard_preview.png)
+![Customer Satisfaction Dashboard](Dashboard)
 
 ---
 
